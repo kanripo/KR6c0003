@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:41:48.034756
+#+DATE: 2015-08-30 19:41:52.216721
 #+TITLE: 光讚經
 #+PROPERTY: CBETA_ID T08n0222
 #+PROPERTY: ID KR6c0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 222
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0003_T_004-0171a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《光讚經》卷第四¶
+《光讚經》卷第四¶
 ¶
 西晉三藏竺法護譯¶
 
-9行品
-:PROPERTIES:
-:head: 《摩訶般若波羅蜜》行品第九
-:END:
-¶
+《摩訶般若波羅蜜》行品第九¶
 
 於是賢者須菩提白佛言：「唯，天中天！假使菩¶
 薩摩訶薩無漚惒拘舍羅行般若波羅蜜，¶
@@ -386,11 +381,7 @@
 世尊答曰：「於內亦空、於外亦空、內外¶
 亦空，一切法空。」¶
 
-10幻品
-:PROPERTIES:
-:head: 《摩訶般若波羅》蜜幻品第十
-:END:
-¶
+《摩訶般若波羅》蜜幻品第十¶
 
 於是，賢者須菩提白佛言：「唯然，世尊！假使問¶
 者：『此幻士學般若波羅蜜，欲得薩芸若。』問¶
