@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 光讚經
+#+DATE: 2015-08-30 19:41:48.503226
+#+PROPERTY: JUAN 0
