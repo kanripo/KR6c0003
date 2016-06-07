@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:41:48.128007
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:20
 #+TITLE: 光讚經
 #+PROPERTY: CBETA_ID T08n0222
 #+PROPERTY: ID KR6c0003
@@ -16,7 +16,7 @@
 ¶
 西晉三藏竺法護譯¶
 
-17觀品
+* 17觀品
 :PROPERTIES:
 :head: 《摩訶般若波羅蜜》觀品第十七
 :END:
@@ -366,7 +366,7 @@
 別，則不復著音聲言說，則能次第曉了諸¶
 法之所歸趣也。」¶
 
-18蜜十住品
+* 18蜜十住品
 :PROPERTIES:
 :head: 《摩訶般若波羅蜜》十住品第十八
 :END:

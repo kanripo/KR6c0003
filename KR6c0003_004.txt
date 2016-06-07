@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:41:48.034756
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:20
 #+TITLE: 光讚經
 #+PROPERTY: CBETA_ID T08n0222
 #+PROPERTY: ID KR6c0003
@@ -16,7 +16,7 @@
 ¶
 西晉三藏竺法護譯¶
 
-9行品
+* 9行品
 :PROPERTIES:
 :head: 《摩訶般若波羅蜜》行品第九
 :END:
@@ -386,7 +386,7 @@
 世尊答曰：「於內亦空、於外亦空、內外¶
 亦空，一切法空。」¶
 
-10幻品
+* 10幻品
 :PROPERTIES:
 :head: 《摩訶般若波羅》蜜幻品第十
 :END:

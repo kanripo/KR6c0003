@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:41:48.007249
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:20
 #+TITLE: 光讚經
 #+PROPERTY: CBETA_ID T08n0222
 #+PROPERTY: ID KR6c0003
@@ -16,7 +16,7 @@
 ¶
 西晉三藏竺法護譯¶
 
-7了空品
+* 7了空品
 :PROPERTIES:
 :head: 《摩訶般若波羅蜜》了空品第七
 :END:
@@ -223,7 +223,7 @@
 薩、聲聞、辟支佛，菩薩悉學，了無所罣礙也。」
 <pb:KR6c0003_T_003-0167a>¶
 
-8假號品
+* 8假號品
 :PROPERTIES:
 :head: 《摩訶般若波羅蜜》假號品第八
 :END:
